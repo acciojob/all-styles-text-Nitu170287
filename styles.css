@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-.container{
+#heading{
 	width:200px;
-	background: purple ;
+	background: rgb(128, 0, 128) ;
 	
 	
 	
 }
-h2{
+.main{
 	border-left: 5px solid green ;
 	padding :10px ;
 	font-size: 20px;
